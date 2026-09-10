@@ -4,7 +4,7 @@ A modern, high-performance club website built with **Next.js App Router**, lever
 
 This project strictly implements an **Island Architecture** model to guarantee exceptional performance, strict accessibility compliance, and developer maintainability.
 
----
+--- 
 
 ## ⚙️ Tech Stack & UI Layering
 
